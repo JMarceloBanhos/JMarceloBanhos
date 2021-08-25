@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JMarceloBanhos
 - 🌱 I’m currently learning Lógica de programação, JS e Java.
-- 💞️ I’m looking to collaborate em uma equipe onde tenha a oportunidade de desenvolver minhas habilidades e competências contribuindo com ocrescimento da organização.
+- 💞️ I’m looking to collaborate where I have the opportunity to develop my skills and competences contributing to the organization's growth.
 - 📫 How to reach me: jmbanhos@hotmail.com
 
 <!---
